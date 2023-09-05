@@ -1,0 +1,12 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL .html files
+*.html
+
+# ignore ALL .html files
+*.css
+
+# ignore ALL .jpg files
+*.jpg
+
